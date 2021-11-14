@@ -82,6 +82,15 @@ Project Link: [https://github.com/Nandiniagr/BOOKSPOT--Bookstore-Management-Syst
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+<!-- ACKNOWLEDGMENTS -->
+## Authors
+
+* [https://github.com/Nandiniagr](https://github.com/Nandiniagr)
+* [https://github.com/Ashwin671](https://github.com/Ashwin671)
+
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
 More images of application
 
 <img src="images/update_data2_bms.PNG" alt="Logo" width="800" height="500">
